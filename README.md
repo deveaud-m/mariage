@@ -20,4 +20,4 @@ Merci de venir tout beaux, tout propres et avec l'envie de passer un moment avec
 
 ## Pages
 
-* Domaine à réserver: [https://marion.philippe.wedding](https://deveaud-m.github.io/marion-philou/)
+* Domaine à réserver: [https://marion-philippe.wedding](https://deveaud-m.github.io/mariage/)
