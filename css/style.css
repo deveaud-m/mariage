@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #ad9f8a;
+  color: #ff746f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #ad9f8a;
+  color: #ff746f;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #ad9f8a;
+  background: #ff746f;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #ad9f8a;
+  background: #ff746f;
 }
 
 ::selection {
   color: #fff;
-  background: #ad9f8a;
+  background: #ff746f;
 }
 
 .fh5co-nav {
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #ad9f8a;
+  color: #ff746f;
 }
 .fh5co-nav ul li.btn-cta a span {
   background: #fff;
@@ -768,7 +768,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #ad9f8a;
+  color: #ff746f;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -787,7 +787,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #ad9f8a;
+  color: #ff746f;
   position: absolute;
   left: 0;
   top: .05em;
@@ -879,7 +879,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: #ad9f8a;
+  color: #ff746f;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1066,7 +1066,7 @@ form label {
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #ad9f8a;
+  color: #ff746f;
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1159,7 +1159,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #ad9f8a;
+  color: #ff746f;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -1181,7 +1181,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #ad9f8a;
+  color: #ff746f;
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -1216,7 +1216,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #ad9f8a;
+  color: #ff746f;
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1308,7 +1308,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #ad9f8a;
+  color: #ff746f;
 }
 .feature-left .feature-copy {
   float: left;
@@ -1374,7 +1374,7 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #ad9f8a;
+  background: #ff746f;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1418,7 +1418,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #ad9f8a;
+  border: 2px solid #ff746f;
 }
 
 #fh5co-offcanvas {
@@ -1671,9 +1671,9 @@ form label {
 }
 
 .btn-primary {
-  background: #ad9f8a;
+  background: #ff746f;
   color: #fff;
-  border: 2px solid #ad9f8a;
+  border: 2px solid #ff746f;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1681,11 +1681,11 @@ form label {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #ad9f8a;
-  border: 2px solid #ad9f8a;
+  color: #ff746f;
+  border: 2px solid #ff746f;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #ad9f8a;
+  background: #ff746f;
   color: #fff;
 }
 
@@ -1815,7 +1815,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #ad9f8a;
+  border-color: #ff746f;
 }
 
 .row-pb-md {
